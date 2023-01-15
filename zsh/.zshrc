@@ -56,6 +56,7 @@ alias vim='nvim'
 alias diff='diff --color -u'
 alias D:='/mnt/d/'
 alias C:='/mnt/c/'
+alias code='/mnt/d/document/program && ll'
 
 ### end of adding by myself
 
