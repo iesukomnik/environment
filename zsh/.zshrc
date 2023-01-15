@@ -48,6 +48,15 @@ zinit snippet OMZ::lib/history.zsh
 
 # 自訂別名提示
 zinit load djui/alias-tips
+
+# alias
+alias ll='ls -alF'
+alias vi='nvim'
+alias vim='nvim'
+alias diff='diff --color -u'
+alias D:='/mnt/d/'
+alias C:='/mnt/c/'
+
 ### end of adding by myself
 
 # Powerlevel10k
